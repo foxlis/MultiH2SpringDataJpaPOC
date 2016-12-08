@@ -8,3 +8,6 @@ mvn spring-boot:run
 
 NOTE:
 If using spring web components in primaryDbSource consider using LocalContainerEntityManagerFactoryBean type in stead of EntityManagerFactory.
+
+TODO:
+Make the same POC with REST endpoint
